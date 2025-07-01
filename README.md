@@ -1,6 +1,6 @@
 # Student Performance Factors' Impact on Exam Scores
 
-This is an machine learning project that trains and tests the best model for the prediction of exam score using studence performance factors.
+This is a machine learning project that trains and tests the best model for the prediction of exam score using studence performance factors.
 
 - python version 3.12.5
 - numpy version 1.26.4
